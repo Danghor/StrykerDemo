@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StrykerConsole/StrykerConsole.csproj" />
+  <Project Path="StrykerTest/StrykerTest.csproj" />
+</Solution>
